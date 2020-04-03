@@ -1,0 +1,4 @@
+ipywidgets
+python: 3.5.2
+jupyter: 1.0.0
+nbformat_minor: 4
